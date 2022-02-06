@@ -12,4 +12,4 @@ My challange is to incorparate the following elements:
 - ol / ul lists
 - links (absolute/relative)
 - images
-I will revisit the README file after the project is finished to reflect on it again.
+- I will revisit the README file after the project is finished to reflect on it again.
